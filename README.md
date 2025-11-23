@@ -75,17 +75,17 @@ This project uses essential C concepts including **structures**, **file handling
 
 - User can enter:
 
-- Record ID
+- Record ID:
 
-- Person/Vehicle Name
+- Person/Vehicle Name:
 
-- Purpose / Description
+- Purpose / Description:
 
-- Time of Entry
+- Time of Entry:
 
-- Time of Exit
+- Time of Exit:
 
-- Gate Number
+- Gate Number:
 - Stored safely in gate_data.txt
 
 ### 📋 **View Records**
@@ -154,20 +154,24 @@ gate.exe
 
 ## 📸 **Screenshots (Optional)**
 *Add Gate Entry Screen
+
 *<img width="393" height="281" alt="Screenshot 2025-11-23 152726" src="https://github.com/user-attachments/assets/d3733083-2407-432d-9ea7-8f347a6c6669" />
 
 *<img width="399" height="281" alt="Screenshot 2025-11-23 152742" src="https://github.com/user-attachments/assets/84a83261-91c2-4491-b0ce-72e5a66ed959" />
 
 
 *View Records
-<img width="370" height="394" alt="Screenshot 2025-11-23 152808" src="https://github.com/user-attachments/assets/1d583933-2a0d-492f-a246-870a98cbf4f4" />
+
+*<img width="370" height="394" alt="Screenshot 2025-11-23 152808" src="https://github.com/user-attachments/assets/1d583933-2a0d-492f-a246-870a98cbf4f4" />
 
 
 *Search Entry
-<img width="421" height="311" alt="Screenshot 2025-11-23 152831" src="https://github.com/user-attachments/assets/51a1ce5e-6594-4962-b29e-6e4aaaec7b35" />
+
+*<img width="421" height="311" alt="Screenshot 2025-11-23 152831" src="https://github.com/user-attachments/assets/51a1ce5e-6594-4962-b29e-6e4aaaec7b35" />
 
 
 *Exit Screen
+
 *<img width="365" height="196" alt="Screenshot 2025-11-23 152842" src="https://github.com/user-attachments/assets/b350705a-d4e4-4614-9e02-df645b99dd9c" />
 
 
