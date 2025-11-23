@@ -96,7 +96,7 @@ This project uses essential C concepts including **structures**, **file handling
 
 - Search using unique Record ID.
 
-###✏️ **Update Records**
+### ✏️ **Update Records**
 
 - Modify stored fields:
 
@@ -154,20 +154,22 @@ gate.exe
 
 ## 📸 **Screenshots (Optional)**
 *Add Gate Entry Screen
-<img width="393" height="281" alt="Screenshot 2025-11-23 152726" src="https://github.com/user-attachments/assets/2d4e2067-d721-435e-a9b9-14de81019080" />
+*<img width="393" height="281" alt="Screenshot 2025-11-23 152726" src="https://github.com/user-attachments/assets/d3733083-2407-432d-9ea7-8f347a6c6669" />
 
-<img width="399" height="281" alt="Screenshot 2025-11-23 152742" src="https://github.com/user-attachments/assets/1d5aa84c-e7ba-4627-b6d5-123c7dcf5ae4" />
+*<img width="399" height="281" alt="Screenshot 2025-11-23 152742" src="https://github.com/user-attachments/assets/84a83261-91c2-4491-b0ce-72e5a66ed959" />
 
 
 *View Records
-<img width="370" height="394" alt="Screenshot 2025-11-23 152808" src="https://github.com/user-attachments/assets/a218340b-f096-4f82-9044-cee47f13e54c" />
+<img width="370" height="394" alt="Screenshot 2025-11-23 152808" src="https://github.com/user-attachments/assets/1d583933-2a0d-492f-a246-870a98cbf4f4" />
 
 
 *Search Entry
-<img width="421" height="311" alt="Screenshot 2025-11-23 152831" src="https://github.com/user-attachments/assets/ca770a74-ad62-4b35-bf21-eb5d61fc708b" />
+<img width="421" height="311" alt="Screenshot 2025-11-23 152831" src="https://github.com/user-attachments/assets/51a1ce5e-6594-4962-b29e-6e4aaaec7b35" />
+
 
 *Exit Screen
-<img width="365" height="196" alt="Screenshot 2025-11-23 152842" src="https://github.com/user-attachments/assets/8024a9db-113b-456b-a7b2-0b8a7ce9bbf6" />
+*<img width="365" height="196" alt="Screenshot 2025-11-23 152842" src="https://github.com/user-attachments/assets/b350705a-d4e4-4614-9e02-df645b99dd9c" />
+
 
 ##📝 **Author**
 
