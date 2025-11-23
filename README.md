@@ -73,7 +73,7 @@ This project uses essential C concepts including **structures**, **file handling
 ## 🚧 **GATE ENTRY OPERATIONS**
 ## ➕ **Add Gate Record**
 
-- User can enter:
+- User can enter
 
 - Record ID:
 
